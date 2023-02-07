@@ -1,0 +1,207 @@
+.bg{
+   background-color: darkgrey;
+
+}
+.box1{
+    
+    color: rgb(85, 0, 255);
+    display: inline block;
+    border: 10px solid hsl(0, 100%, 50%);
+    margin-top: 12px;
+    box-shadow: 5px 5px 5px rgb(226, 43, 177);
+    text-shadow: 2px 2px 2px ;
+    padding-left: 250px;
+    padding-right: 250px;
+    width: 200px;
+    font-weight: fit content;
+    
+    margin-left: 25%;
+    
+    border-radius: 20px;
+    line-height: 35px;
+    
+    
+    text-align: center;
+}
+
+
+.box2{
+    color: rgb(85, 0, 255);
+    text-align: ;
+    
+    border: 10px solid hsl(0, 100%, 50%);
+    position: relative;
+    box-shadow: 5px 5px 5px rgb(226, 43, 177);
+    text-shadow:blueviolet 2px 2px 2px ;
+    padding-left: 10px;
+    padding-right: 100px;
+    width: 100px;
+    
+
+    
+    
+    border-radius: 20px;
+    line-height: 35px;
+    
+    }
+.box3{
+    color: rgb(85, 0, 255);
+    display: flex ;
+    border: 10px solid hsl(0, 100%, 50%);
+    position: relative
+    ;
+    box-shadow: 5px 5px 5px rgb(226, 43, 177);
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 100px;
+    margin-left: 70%;
+    height: 300px;
+    margin-top: -300px;
+    
+    
+    
+    border-radius: 20px;
+    line-height: 35px;
+    }
+.box4{
+    color: rgb(85, 0, 255);
+    display: flex;
+    font-size:larger;
+    
+    border: 10px solid hsl(0, 100%, 50%);
+    box-shadow: 5px 5px 5px rgb(226, 43, 177);
+    text-shadow: 2px 2px 2px ;
+    
+    width: 150px;
+    padding-right: 100px;
+    height: 100%;
+    border-radius: 20px;
+    position: relative;
+
+}
+.box5{  
+   color: rgb(85, 0, 255);
+    display: flex ;
+    border: 10px solid hsl(0, 100%, 50%);
+    position: relative
+    ;
+    box-shadow: 5px 5px 5px rgb(226, 43, 177);
+    
+    padding-left: 50px;
+    
+    width: 100px;
+    margin-left: 70%;
+    height: 300px;
+    margin-top: -300px;
+    width: 250px;
+    
+    
+    
+    border-radius: 20px;
+    line-height: 35px;}
+    .box6{
+        height: 300px;
+        margin-top: -300px;
+        width: 300px;
+        border-radius: 20px;
+        
+        margin-left: 70%;
+        padding-top: 30px;
+        text-shadow: 2px 2px 2px  ;
+        font-size: larger;
+    }
+    .box7{
+        background-color: lawngreen;
+        border: 5px orangered solid;
+        text-align: center;
+        width: 500px;
+        margin-left: 30%;
+        margin-top: -30%;
+        border-radius: 10px;
+        position: fixed;
+    
+    }
+    
+.border{
+    border: 5px green solid;
+    height: 750px;
+    width: 100%;
+}
+.border2{
+    margin-top: 70px;
+    border: 5px blueviolet solid;
+    
+}
+.parent{
+    width: 710px;
+    height: 550px;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(113, 223, 186);
+    border-width: 6px;
+    border-style: solid;
+    border-color: green;
+    border-image: initial;
+    margin: auto;
+}
+.child1{
+    background-color: goldenrod;
+    width: fit-content;
+    padding: 10px 0px;
+    width: 300px;
+    display: block;
+
+
+}
+.child2{
+    background-color: goldenrod;
+    width: 350px;
+    position: relative;
+    left: 338px;
+    bottom: 215px;
+    padding: 10px;
+    margin-top: 30px;
+    display: block;
+    height: 165px;
+
+}
+.child3{
+    background-color: goldenrod;
+    position: relative;
+    bottom: 200px;
+    padding: 10px 0px;
+    display: block;
+    
+}
+h2{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.box{
+    display: flex;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+    box-shadow: blueviolet 5px 5px 2px;
+    background-color: rgb(46, 184, 115);
+    color: rgb(61, 31, 88);
+    position: fixed;
+    font-style: italic;
+    bottom: 90px;
+    left: 420px;
+    height: 70px;
+    width: 450px;
+    text-align: center;
+    z-index: 1;
+    flex-flow: row wrap;
+    border-width: 4px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    border-radius: 15px;
+}
